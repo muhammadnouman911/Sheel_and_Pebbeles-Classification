@@ -26,3 +26,11 @@ This project focuses on classifying **shells** and **pebbles** using deep learni
 - **difference.ipynb**: Compares performance across different models and techniques.
 - **accuracy and loss function.png**: Visual representation of training performance.
 
+## 🧠 Techniques Used
+
+- CNN (Convolutional Neural Networks)
+- Transfer Learning
+- Fine-Tuning
+- Image Preprocessing & Augmentation
+- Evaluation with Accuracy and Loss Graphs
+
