@@ -34,3 +34,30 @@ This project focuses on classifying **shells** and **pebbles** using deep learni
 - Image Preprocessing & Augmentation
 - Evaluation with Accuracy and Loss Graphs
 
+## 📊 Results
+
+Model performance is measured using accuracy and loss curves. See `accuracy and loss function.png` for visual insights.
+
+## 🛠 Requirements
+
+- Python 3.x
+- Jupyter Notebook
+- TensorFlow / PyTorch
+- NumPy
+- Matplotlib
+- OpenCV (if used for image processing)
+
+Install dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+> (You can add a `requirements.txt` file with exact package versions)
+
+## 📌 Future Work
+
+- Expand dataset with more categories.
+- Try different architectures (e.g., EfficientNet, VGG).
+- Deploy as a web app for real-time predictions.
+
