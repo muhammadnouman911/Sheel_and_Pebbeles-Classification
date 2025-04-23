@@ -61,3 +61,12 @@ pip install -r requirements.txt
 - Try different architectures (e.g., EfficientNet, VGG).
 - Deploy as a web app for real-time predictions.
 
+## 🤝 Contributing
+
+Feel free to fork the repo and raise a PR with improvements or suggestions.
+
+## 📜 License
+
+This project is open-source under the [MIT License](LICENSE).
+
+---
